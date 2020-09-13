@@ -1,0 +1,24 @@
+[
+    {
+        "img_name":"test.png",
+        "keypoints":{
+            "nose":[70,27,1],
+            "left_eye":[77,22,1],
+            "right_eye":[62,23,1],
+            "left_ear":[81,25,0],
+            "right_ear":[53,26,0],
+            "left_shoulder":[99,43,1],
+            "right_shoulder":[28,46,1],
+            "left_elbow":[91,75,1],
+            "right_elbow":[15,71,1],
+            "left_wrist":[77,91,0],
+            "right_wrist":[22,81,1],
+            "left_hip":[76,106,1],
+            "right_hip":[45,111,1],
+            "left_knee":[62,147,0],
+            "right_knee":[61,147,1],
+            "left_ankle":[50,161,0],
+            "right_ankle":[70,190,1]
+        }
+    }
+]
